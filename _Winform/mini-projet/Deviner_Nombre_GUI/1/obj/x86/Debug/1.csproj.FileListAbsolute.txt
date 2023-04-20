@@ -1,0 +1,8 @@
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\_1.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\_1.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\1.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\bin\Debug\1.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\bin\Debug\1.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\1.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\1.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\mini-projet\1\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache

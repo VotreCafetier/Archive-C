@@ -1,0 +1,43 @@
+DÉBUT
+	VAR:
+	(RND) rnd
+	(CDC)Signe
+	(NB ENTIER) Nb1
+	(NB ENTIER) Nb2
+	(NB ENTIER) R
+	(NB VIRG)dR
+	(NB ENTIER) NbQ
+	(NB ENTIER) compteur
+	(NB ENTIER) iB
+	(NB ENTIER) iM
+	
+	AFFICHAGE = blanc
+	
+	REQUETE "Combien de question voulez-vous repondre ?", NbQ
+	TANT QUE NbQ n'est pas un nombre
+		REQUETE "Combien de question voulez-vous repondre ?", NbQ
+	FIN TANT QUE
+	
+	TANT QUE compteur n'est pas égale à NbQ
+		REQUETE "Nb1 signe Nb2, Quel est la réponse ? ", dR
+		TANT QUE dR n'est pas un nombre
+			REQUETE "Nb1 signe Nb2, Quel est la réponse ? ", dR
+		FIN TANT QUE
+	
+		compteur + 1
+		
+		SI dR = R
+			Ajouter 1 à iB
+			AFFICHAGE = vert
+			AFFICHER "Bravo !"
+		FIN SI
+		
+		AUTRE
+			Ajouter 1 à iM
+			AFFICHAGE = rouge
+			AFFICHER "C'était R"
+		FIN AUTRE
+	FIN TANT QUE
+	
+	AFFICHER "Votre pourcentage de réussite est de iB / iM * 100 %"
+FIN

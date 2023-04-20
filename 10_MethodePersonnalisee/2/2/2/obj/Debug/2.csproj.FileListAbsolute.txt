@@ -1,0 +1,6 @@
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\bin\Debug\2.exe.config
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\bin\Debug\2.exe
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\bin\Debug\2.pdb
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\obj\Debug\2.exe
+E:\Desktop\EN COURS\10_MethodePersonnalisee\2\2\2\obj\Debug\2.pdb

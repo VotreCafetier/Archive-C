@@ -1,0 +1,16 @@
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\bin\Debug\Mon_Premier_Formulaire.exe
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\bin\Debug\Mon_Premier_Formulaire.pdb
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.Properties.Resources.resources
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.csproj.GenerateResource.Cache
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.exe
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.pdb
+C:\Users\317594\Desktop\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.frm.resources
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.exe
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.pdb
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.exe
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.pdb
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\bin\Debug\Mon_Premier_Formulaire.exe
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\bin\Debug\Mon_Premier_Formulaire.pdb
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.frm.resources
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\FINI\1_exercices Buttons\Mon_Premier_Formulaire\Mon_Premier_Formulaire\obj\x86\Debug\Mon_Premier_Formulaire.csproj.GenerateResource.Cache

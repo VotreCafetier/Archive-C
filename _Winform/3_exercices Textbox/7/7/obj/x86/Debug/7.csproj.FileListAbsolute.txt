@@ -1,0 +1,7 @@
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\bin\Debug\7.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\bin\Debug\7.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\obj\x86\Debug\_7.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\obj\x86\Debug\_7.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\obj\x86\Debug\7.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\obj\x86\Debug\7.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\3_exercices Textbox\7\7\obj\x86\Debug\7.pdb

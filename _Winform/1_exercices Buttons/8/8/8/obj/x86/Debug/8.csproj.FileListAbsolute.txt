@@ -1,0 +1,9 @@
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\obj\x86\Debug\_8.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\obj\x86\Debug\_8.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\obj\x86\Debug\8.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\bin\Debug\8.exe
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\bin\Debug\8.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\obj\x86\Debug\8.exe
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\8\8\8\obj\x86\Debug\8.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\1_exercices Buttons\8\8\8\obj\x86\Debug\8.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\1_exercices Buttons\8\8\8\obj\x86\Debug\8.pdb

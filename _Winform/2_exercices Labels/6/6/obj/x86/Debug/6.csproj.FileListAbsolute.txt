@@ -1,0 +1,7 @@
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\bin\Debug\6.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\bin\Debug\6.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\obj\x86\Debug\_6.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\obj\x86\Debug\_6.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\obj\x86\Debug\6.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\obj\x86\Debug\6.exe
+U:\Informatique\Programmation\Exercices\EN COURS\_Winform\2_exercices Labels\6\6\obj\x86\Debug\6.pdb

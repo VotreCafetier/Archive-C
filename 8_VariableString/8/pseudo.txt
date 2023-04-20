@@ -1,0 +1,10 @@
+DÉBUT
+	VARIABLE:
+	(CDC)sNom
+	
+	REQUETE "Veuillez entrer votre nom : ", sNom
+	
+	sNom = remplacer tout les i par des 1, les s par des $ et les e par des 3
+	
+	AFFICHER "sNom"
+FIN

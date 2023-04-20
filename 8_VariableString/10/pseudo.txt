@@ -1,0 +1,16 @@
+DÉBUT
+	VAR:
+	(CDC) sNom
+	
+	REQUETE "Veuillez entrer votre nom : ", sNom
+	
+	SI sNom contient "-"
+	COULEUR ÉCRITURE = VERT
+	AFFICHER "Vous avez un nom composé"
+	
+	SINON
+	COULEUR ÉCRITURE = VERT
+	AFFFICHER "Vous n'avez pas de nom composé"
+	
+	FIN SI
+FIN

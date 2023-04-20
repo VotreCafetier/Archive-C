@@ -1,0 +1,7 @@
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\bin\Debug\9.exe
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\bin\Debug\9.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\obj\x86\Debug\_9.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\obj\x86\Debug\_9.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\obj\x86\Debug\9.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\obj\x86\Debug\9.exe
+U:\Informatique\Programmation\Exercices\EN COURS\1_exercices Buttons\9\9\9\obj\x86\Debug\9.pdb

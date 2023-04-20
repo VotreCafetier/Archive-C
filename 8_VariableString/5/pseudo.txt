@@ -1,0 +1,10 @@
+DÉBUT
+	VAR:
+	(CDC)sD
+	
+	REQUETE "Veuillez entrer votre nom : ", sD
+	
+	Remplacer tout les e par 3 && remplacer tout les i par 1 && Remplacer tout les s par $
+	
+	AFFICHER sD
+FIN

@@ -1,0 +1,7 @@
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\bin\Debug\Menu.exe
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\bin\Debug\Menu.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\obj\x86\Debug\Menu.csproj.GenerateResource.Cache
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\obj\x86\Debug\Menu.exe
+U:\Informatique\Programmation\Exercices\EN COURS\Menu\Menu\Menu\obj\x86\Debug\Menu.pdb

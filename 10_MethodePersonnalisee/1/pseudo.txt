@@ -1,0 +1,39 @@
+DÉBUT
+
+	AfficherTableau:
+	(Tableau temporaire)sTableau
+	(nombre entier)i
+	POUR si i n'est pas égale à la taille de sTableau ajouter 1 à i
+		AFFICHER "sTableau i"
+	FIN POUR
+	
+	VAR:
+	(Tab de 10 CDC)TableauUn
+	
+	Case 0 TableauUn = "56";
+	Case 1 TableauUn = "65";
+	Case 2 TableauUn = "42";
+	Case 3 TableauUn = "88";
+	Case 4 TableauUn = "96";
+	Case 5 TableauUn = "48";
+	Case 6 TableauUn = "78";
+	Case 7 TableauUn = "32";
+	Case 8 TableauUn = "11";
+	Case 9 TableauUn = "92";
+	
+	(Tab de 5 CDC)TableauDeux
+	
+	Case 0 TableauDeux = "pomme";
+	Case 1 TableauDeux = "banane";
+	Case 2 TableauDeux = "fraise";
+	Case 3 TableauDeux = "kiwi";
+	Case 4 TableauDeux = "orange";
+	
+	(CDC) R
+	
+	AFFICHER "1. Tableau Un"
+	AFFICHER "2. Tableau Deux"
+	REQUETE "Quel tableau voulez-vous afficher ?", R
+	
+	TANT QUE 
+FIN

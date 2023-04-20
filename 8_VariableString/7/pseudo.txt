@@ -1,0 +1,14 @@
+DÉBUT 
+	VARIABLE:
+	(CDC)sAddress
+	
+	REQUETE "Veuillez entrer une adresse courriel", sAddress
+	TANT QUE sAddress ne contient pas un @ et un . en partant de la fin
+		COULEUR TEXTE ROUGE
+		REQUETE "Veuillez entrer une adresse courriel valide",sAddress
+		COULEUR TEXTE BLANC
+	FIN TANT QUE 
+	
+	COULEUR TEXTE = Vert
+	AFFICHER "sAddress"
+FIN

@@ -1,0 +1,36 @@
+DÉBUT
+	VAR:
+	(NB ENTIER)i
+	(CDC)Espace
+	
+	POUR i=11 ?
+		AFFICHER "espace + i"
+		
+		Ajouter 1 à i
+		Ajouter "espace" à espace
+	FIN POUR
+	
+	AFFICHER "Voir l'exercice suivant"
+FIN
+
+DÉBUT
+	VAR:
+	(NB ENTIER)i
+	(CDC)Espace
+	
+	POUR i=11 ?
+		AFFICHER "espace + i"
+		
+		Ajouter 1 à i
+		Ajouter "espace" à espace
+	FIN POUR
+	
+	POUR i=0 ?
+		AFFICHER "espace + i"
+		
+		Enlever 1 à i
+		Enlever " " à espace
+	FIN POUR
+	
+	AFFICHER "Voir l'exercice suivant"
+FIN

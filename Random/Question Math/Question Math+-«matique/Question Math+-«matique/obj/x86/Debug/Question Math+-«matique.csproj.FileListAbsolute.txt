@@ -1,0 +1,9 @@
+U:\Informatique\Programmation\Exercices\EN COURS\Random\Question Mathématique\Question Mathématique\Question Mathématique\bin\Debug\Question Mathématique.exe
+U:\Informatique\Programmation\Exercices\EN COURS\Random\Question Mathématique\Question Mathématique\Question Mathématique\bin\Debug\Question Mathématique.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\Random\Question Mathématique\Question Mathématique\Question Mathématique\obj\x86\Debug\Question Mathématique.exe
+U:\Informatique\Programmation\Exercices\EN COURS\Random\Question Mathématique\Question Mathématique\Question Mathématique\obj\x86\Debug\Question Mathématique.pdb
+E:\Desktop\EN COURS\Random\Question Math+®matique\Question Math+®matique\Question Math+®matique\bin\Debug\Question Mathématique.exe
+E:\Desktop\EN COURS\Random\Question Math+®matique\Question Math+®matique\Question Math+®matique\bin\Debug\Question Mathématique.pdb
+E:\Desktop\EN COURS\Random\Question Math+®matique\Question Math+®matique\Question Math+®matique\obj\x86\Debug\Question Math+®matique.csprojResolveAssemblyReference.cache
+E:\Desktop\EN COURS\Random\Question Math+®matique\Question Math+®matique\Question Math+®matique\obj\x86\Debug\Question Mathématique.exe
+E:\Desktop\EN COURS\Random\Question Math+®matique\Question Math+®matique\Question Math+®matique\obj\x86\Debug\Question Mathématique.pdb

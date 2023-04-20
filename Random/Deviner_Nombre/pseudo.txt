@@ -1,0 +1,29 @@
+DÉBUT
+	VAR:
+	(RDM)rHazard
+	(NB VIRG)dR
+	(NB ENTIER) iEssai
+	(CDC)sAGN
+	
+	TANT QUE sAGN n'est pas "non"
+		TANT QUE dR n'est pas rHazard
+			REQUETE "Veuillez deviner le nombre", dR
+			TANT QUE dR n'est pas un nombre
+				REQUETE "Veuillez deviner le nombre", dR
+			FIN TANT QUE
+			
+			iEssai + 1
+			
+			SI dR < rHazard
+				AFFICHER "moins !"
+			FIN SI
+			
+			SI dR > rHazard
+				AFFICHER "plus !
+			FIN SI
+		FIN TANT QUE
+	
+	REQUETE "Vous avez deviné ! Vous avez essayé iEssai fois ! Voulez-vous rejouer ?", sAGN
+	FIN TANT QUE
+	
+FIN

@@ -1,0 +1,6 @@
+E:\Desktop\EN COURS\8_VariableString\10\10\10\bin\Debug\10.exe.config
+E:\Desktop\EN COURS\8_VariableString\10\10\10\bin\Debug\10.exe
+E:\Desktop\EN COURS\8_VariableString\10\10\10\bin\Debug\10.pdb
+E:\Desktop\EN COURS\8_VariableString\10\10\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+E:\Desktop\EN COURS\8_VariableString\10\10\10\obj\Debug\10.exe
+E:\Desktop\EN COURS\8_VariableString\10\10\10\obj\Debug\10.pdb

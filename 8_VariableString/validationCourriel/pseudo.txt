@@ -1,0 +1,13 @@
+DÉBUT 
+	VAR:
+	(CDC)sMAIL
+	
+	REQUETE "Veuillez entrer votre adresse courriel", ,sMAIL
+	TANT QUE sMAIL ne contient pas de "@" et de "."
+		COUEUR TEXTE = ROUGE
+		REQUETE "Veuillez entrer votre adresse courriel", ,sMAIL
+	FIN TANT QUE
+	
+	COUEUR TEXTE = VERT
+	AFFICHER "Votre adresse est valide"
+FIN

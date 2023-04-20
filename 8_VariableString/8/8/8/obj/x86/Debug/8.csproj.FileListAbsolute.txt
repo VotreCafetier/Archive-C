@@ -1,0 +1,4 @@
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\8\8\8\bin\Debug\8.exe
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\8\8\8\bin\Debug\8.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\8\8\8\obj\x86\Debug\8.exe
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\8\8\8\obj\x86\Debug\8.pdb

@@ -1,0 +1,20 @@
+DÉBUT
+	VAR:
+	(CDC)sN
+	
+	REQUETE "Veuillez entrer votre nom : ", sN
+	METTRE sN tout en MAJ
+	AFFICHER "sN"
+	
+	NETTOYER
+	
+	REQUETE "Veuillez entrer votre address courriel", sN
+	TANT QUE sN ne contient pas un @ et un .
+		COULEUR TEXTE Rouge
+		REQUETE "Veuillez entrer une address courriel valide", sN
+		COULEUR TEXTE Blanc
+	FIN TANT QUE
+	
+	COULEUR TEXTE Vert
+	AFFICHER "sN"
+FIN

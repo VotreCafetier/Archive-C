@@ -1,0 +1,5 @@
+U:\Informatique\Programmation\Exercices\EN COURS\05 - Exercice disposition des nombres\05\05\bin\Debug\05.exe
+U:\Informatique\Programmation\Exercices\EN COURS\05 - Exercice disposition des nombres\05\05\bin\Debug\05.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\05 - Exercice disposition des nombres\05\05\obj\x86\Debug\05.exe
+U:\Informatique\Programmation\Exercices\EN COURS\05 - Exercice disposition des nombres\05\05\obj\x86\Debug\05.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\05 - Exercice disposition des nombres\05\05\obj\x86\Debug\05.csprojResolveAssemblyReference.cache

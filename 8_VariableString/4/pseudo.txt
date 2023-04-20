@@ -1,0 +1,17 @@
+DÉBUT
+	VAR:
+	motCache = anticonstitutionnellement(CDC)
+	lettre (Caractère)
+	compteur = 0 (NB ENTIER)
+	
+	REQUETE "Entrer une lettre", lettre
+	
+	(NB ENTIER) i = 0
+	POUR i est plus petit que la taille du motCache? et ajouter 1 à i
+		SI lettre est égale à motCache
+			Ajouter 1 à compteur
+		FIN SI
+	FIN POUR 
+	
+	AFFICHER "il y a" compteur lettre " dans le mot" motCache
+FIN

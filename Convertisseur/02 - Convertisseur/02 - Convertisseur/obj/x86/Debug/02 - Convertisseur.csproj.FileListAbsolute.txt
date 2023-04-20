@@ -1,0 +1,5 @@
+U:\Informatique\Programmation\Exercices\EN COURS\02 - Convertisseur\02 - Convertisseur\02 - Convertisseur\bin\Debug\02 - Convertisseur.exe
+U:\Informatique\Programmation\Exercices\EN COURS\02 - Convertisseur\02 - Convertisseur\02 - Convertisseur\bin\Debug\02 - Convertisseur.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\02 - Convertisseur\02 - Convertisseur\02 - Convertisseur\obj\x86\Debug\02 - Convertisseur.exe
+U:\Informatique\Programmation\Exercices\EN COURS\02 - Convertisseur\02 - Convertisseur\02 - Convertisseur\obj\x86\Debug\02 - Convertisseur.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\02 - Convertisseur\02 - Convertisseur\02 - Convertisseur\obj\x86\Debug\02 - Convertisseur.csprojResolveAssemblyReference.cache

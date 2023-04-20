@@ -1,0 +1,252 @@
+DÉBUT
+	VAR:
+	(C)Exit
+	(N)iMenu
+	
+	Menu:
+	
+	AFFICHER "MENU :"
+	AFFICHER "1. Livres en Kilogrammes"
+	AFFICHER "2- Kilogrammes en Livres"
+	AFFICHER "3. Fahrenheit en Celsius"
+	AFFICHER "4. Celsius en Fahrenheit"
+	AFFICHER "5. Mètres en Pieds"
+	AFFICHER "6. Pieds en Mètres"
+	AFFICHER "7. Centimètres en Pouces"
+	AFFICHER "8. Pouces en Centimètres"
+	AFFICHER "9. Litres en Gallons"
+	AFFICHER "10. Gallons en litres"
+	AFFICHER "ECHAP pour quitter"
+	
+	TANT QUE iMenu >= 1 && iMenu <= 10
+		TANT QUE iMenu != nombre
+			REQUETE "Que voulez-vous faire ? : ", iMenu
+		FIN
+	FIN
+	
+	switch (iMenu)
+		Choix 1 //Livre & Kilogrammes
+			VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			LK:
+			TANT QUE dN != Nombre
+				REQUETE "Livre en Kilo : /n Donner la mesure (Livre) :", dN
+			FIN
+			
+			dR = dN * 2.2046
+			
+			AFFICHER "dN en kilo : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A LK
+				
+			SI sBoucle = Non
+				ALLER A Menu
+				
+		Choix 2 // Kilo & Livre
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			KL:
+			TANT QUE dN != Nombre
+				REQUETE "Kilo en Livre : /n Donner la mesure (Kilo) :", dN
+			FIN
+			
+			dR = dN / 2.2046
+			
+			AFFICHER "dN en Livre : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A KL
+				
+			SI sBoucle = Non
+				ALLER A Menu
+				
+		Choix 3 //F & C
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			FC:
+			TANT QUE dN != Nombre
+				REQUETE "Fahrenheit en Celsius: /n Donner la mesure (Fahrenheit) :", dN
+			FIN
+			
+			dR = dN – 32 / 1.8
+			
+			AFFICHER "dN en Celsius : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A FC
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 4 // C & F
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			CF:
+			TANT QUE dN != Nombre
+				REQUETE "Celsius en Fahrenheit : /n Donner la mesure (Celsius) :", dN
+			FIN
+			
+			dR = dN * 1.8 + 32
+			
+			AFFICHER "dN en Fahrenheit : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A CF
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 5 // M & Pieds
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			MP:
+			TANT QUE dN != Nombre
+				REQUETE "Mètre en Pied : /n Donner la mesure (Mètre) :", dN
+			FIN
+			
+			dR = dN * 3.2808398950131
+			
+			AFFICHER "dN en Pied : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A MP
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 6 // Pied & M
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			PM:
+			TANT QUE dN != Nombre
+				REQUETE "Pied en Mètre : /n Donner la mesure (Pied) :", dN
+			FIN
+			
+			dR = dN / 3.2808398950131
+			
+			AFFICHER "dN en Mètre : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A PM
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 7 // cm en p
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			CP:
+			TANT QUE dN != Nombre
+				REQUETE "Centimètres en Pouces : /n Donner la mesure (Cm) :", dN
+			FIN
+			
+			dR = dN * 0.39370078740157
+			
+			AFFICHER "dN en Pouces : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A CP
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 8 // p  en cm
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			PC:
+			TANT QUE dN != Nombre
+				REQUETE "Pouces en Centimètres: /n Donner la mesure (Pouces) :", dN
+			FIN
+			
+			dR = dN / 0.39370078740157
+			
+			AFFICHER "dN en Centimètres : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A PC
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 9 //L en Gallons
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			LG:
+			TANT QUE dN != Nombre
+				REQUETE "Litres en Gallons : /n Donner la mesure (Litres) :", dN
+			FIN
+			
+			dR = dN * 0.264
+			
+			AFFICHER "dN en Gallons : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A LG
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		Choix 10 // Gallons en L
+		VAR:
+			(N)dN
+			(N)dR
+			(CDC)sBoucle
+			
+			GL:
+			TANT QUE dN != Nombre
+				REQUETE "Gallons en Litres : /n Donner la mesure (Gallons) :", dN
+			FIN
+			
+			dR = dN / 0.264
+			
+			AFFICHER "dN en Litres : dR"
+			REQUETE "Voulez-vous refaire un autre calcul ? : ", sBoucle
+			
+			SI sBoucle = Oui
+				ALLER A GL
+				
+			SI sBoucle = Non
+				ALLER A Menu
+		
+		DEFAULT
+			AFFICHER "Veuillez mettre un choix valide"
+			ALLER A Menu
+	FIN
+FIN

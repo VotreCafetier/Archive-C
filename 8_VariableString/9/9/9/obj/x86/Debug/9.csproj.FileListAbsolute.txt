@@ -1,0 +1,7 @@
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\9\9\9\bin\Debug\9.exe
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\9\9\9\bin\Debug\9.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\9\9\9\obj\x86\Debug\9.csprojResolveAssemblyReference.cache
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\9\9\9\obj\x86\Debug\9.exe
+U:\Informatique\Programmation\Exercices\EN COURS\8_VariableString\9\9\9\obj\x86\Debug\9.pdb
+E:\Desktop\EN COURS\8_VariableString\9\9\9\obj\x86\Debug\9.exe
+E:\Desktop\EN COURS\8_VariableString\9\9\9\obj\x86\Debug\9.pdb

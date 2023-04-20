@@ -1,0 +1,18 @@
+DÉBUT
+	VAR:
+	(CDC)sM
+	REQUETE "Veuillez entrer un mot : ", sM
+	
+	(NB entier)i
+	POUR tant que i n'est pas le nombre de charactère dans sM, ajouter 1 à i
+		SI i % 2 = 0
+		COULEUR TEXTE = VERT
+		
+		SINON SI
+		COULEUR TEXTE = ROUGE
+		
+		FIN SI
+	FIN POUR
+	
+	AFFICHER "sM"
+FIN

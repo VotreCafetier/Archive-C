@@ -1,0 +1,7 @@
+DÉBUT
+	VAR:
+	(CDC)sNom
+	REQUETE "Quel est votre nom : ",sNom
+	
+	sNom = Remplacer le premier charactère par le même charactère mais en majuscule
+FIN

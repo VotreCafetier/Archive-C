@@ -1,0 +1,20 @@
+DÉBUT
+	VAR:
+	(CDC) motDePasse
+	
+	REQUETE "Veuillez entrer un mot de passe : ", motDePasse
+	TANT QUE motDePasse n'a pas 8 caractères
+		REQUETE "Veuillez entrer un mot de passe avec MINIMUM 8 caractères : ", motDePasse
+	FIN TANT QUE
+	
+	Trimer motDePasse
+	Couleur de la console = vert
+	AFFICHER "Mot de passe : Confirmé!"
+	NETTOYER
+	
+	(NB VIRG)dN
+	REQUETE "Veuillez entrer un nombre decimal", dN
+	REMPLACER . par , 
+	
+	dN += (dN * 0,15)
+FIN

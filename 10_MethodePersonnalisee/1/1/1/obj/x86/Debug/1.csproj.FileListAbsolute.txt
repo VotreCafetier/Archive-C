@@ -1,0 +1,9 @@
+U:\Informatique\Programmation\Exercices\EN COURS\10_MethodePersonnalisee\1\1\1\bin\Debug\1.exe
+U:\Informatique\Programmation\Exercices\EN COURS\10_MethodePersonnalisee\1\1\1\bin\Debug\1.pdb
+U:\Informatique\Programmation\Exercices\EN COURS\10_MethodePersonnalisee\1\1\1\obj\x86\Debug\1.exe
+U:\Informatique\Programmation\Exercices\EN COURS\10_MethodePersonnalisee\1\1\1\obj\x86\Debug\1.pdb
+E:\Desktop\EN COURS\10_MethodePersonnalisee\1\1\1\obj\x86\Debug\1.exe
+E:\Desktop\EN COURS\10_MethodePersonnalisee\1\1\1\obj\x86\Debug\1.pdb
+E:\Desktop\EN COURS\10_MethodePersonnalisee\1\1\1\bin\Debug\1.exe
+E:\Desktop\EN COURS\10_MethodePersonnalisee\1\1\1\bin\Debug\1.pdb
+E:\Desktop\EN COURS\10_MethodePersonnalisee\1\1\1\obj\x86\Debug\1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+DÉBUT
+	VAR:
+	(CDC)sMDP
+	
+	TANT QUE sMDP ne contient pas 8 charactères et aucun espace au début et à la fin
+		REQUETE "Veuillez entrer un mot de passe", sMDP
+	FIN TANT QUE
+	
+	COULEUR TEXTE = VERT
+	AFFICHER "sMDP"
+FIN

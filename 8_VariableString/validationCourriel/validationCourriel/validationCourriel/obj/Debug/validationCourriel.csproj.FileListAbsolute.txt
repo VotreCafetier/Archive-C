@@ -1,0 +1,6 @@
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\bin\Debug\validationCourriel.exe.config
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\bin\Debug\validationCourriel.exe
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\bin\Debug\validationCourriel.pdb
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\obj\Debug\validationCourriel.csprojResolveAssemblyReference.cache
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\obj\Debug\validationCourriel.exe
+E:\Desktop\EN COURS\8_VariableString\validationCourriel\validationCourriel\validationCourriel\obj\Debug\validationCourriel.pdb
